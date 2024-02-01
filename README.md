@@ -1,8 +1,9 @@
-# React + Vite
+# Dukaan Dashboard
+In this assignment i have created dukaan's dashboard this is a frontend project created using tailwind(any css library) and react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This an project given by the founder  of dukaan for the hiring a frontend developer 
 
-Currently, two official plugins are available:
+You can checkout the figma file and tweet below
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[actual Tweet](https://x.com/subhashchy/status/1744308069751025894?s=20)
+
